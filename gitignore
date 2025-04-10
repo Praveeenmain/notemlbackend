@@ -1,0 +1,5 @@
+node_modules/
+python-ml/__pycache__/
+*.pkl
+.env
+*.csv
